@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9ac2f0b1-9c36-467a-ae63-0decdd8b5972/resourceGroups/SisaResourceGroup/providers/Microsoft.Web/sites/omioappdemo",
+    "appService.deploySubpath": "build"
+}

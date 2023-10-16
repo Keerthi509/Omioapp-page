@@ -1,0 +1,10 @@
+export const transcations=[{"id":1,"first_name":"Doll","last_name":"Oliveira","email":"doliveira0@webnode.com","status":false,"date":"05-Mar-2023","invoice":"$3944.58"},
+{"id":2,"first_name":"Brewer","last_name":"Howel","email":"bhowel1@flavors.me","status":false,"date":"01-Jul-2023","invoice":"$21360.21"},
+{"id":3,"first_name":"Roxanna","last_name":"Teffrey","email":"rteffrey2@google.it","status":true,"date":"18-Dec-2022","invoice":"$22620.28"},
+{"id":4,"first_name":"Olvan","last_name":"Bentsen","email":"obentsen3@dyndns.org","status":false,"date":"15-Aug-2023","invoice":"$29500.94"},
+{"id":5,"first_name":"Emilia","last_name":"Shipton","email":"eshipton4@lulu.com","status":false,"date":"21-Sep-2023","invoice":"$12393.63"},
+{"id":6,"first_name":"Denise","last_name":"Ibberson","email":"dibberson5@nsw.gov.au","status":true,"date":"27-Aug-2023","invoice":"$4210.94"},
+{"id":7,"first_name":"Fran","last_name":"Pressdee","email":"fpressdee6@theglobeandmail.com","status":true,"date":"30-Mar-2023","invoice":"$17785.36"},
+{"id":8,"first_name":"Vonni","last_name":"Tirone","email":"vtirone7@paypal.com","status":true,"date":"16-Dec-2022","invoice":"$15129.14"},
+{"id":9,"first_name":"Christos","last_name":"Woofenden","email":"cwoofenden8@geocities.jp","status":true,"date":"16-Jan-2023","invoice":"$19314.30"},
+{"id":10,"first_name":"Doe","last_name":"Olivie","email":"dolivie9@hostgator.com","status":false,"date":"23-Apr-2023","invoice":"$20343.56"}];
